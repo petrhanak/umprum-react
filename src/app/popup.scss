@@ -1,0 +1,27 @@
+.title {
+  display: inline-block;
+  width: calc(100% - 48px);
+}
+.close {
+  float: right;
+}
+.description {
+  width: 60%;
+  float: left;
+}
+.image {
+  width: 36%;
+  margin: 2%;
+  float: right;
+}
+.navigateBefore, .navigateNext {
+  margin: -20px -10px;
+  position: absolute;
+  top: 50%;
+}
+.navigateBefore {
+  right: 100%;
+}
+.navigateNext {
+  left: 100%;
+}

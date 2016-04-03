@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+  min-width: 1170px;
+}
+.container {
+  position: relative;
+  width: 1170px;
+  margin: 0 auto;
+}
+.page {
+  float: right;
+  width: 75%;
+}
+.footer {
+  display: block;
+  width: 100%;
+  clear: both;
+  padding-top: 20px;
+  line-height: 80px;
+  color: #ccc;
+  text-align: center;
+}

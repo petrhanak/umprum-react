@@ -1,0 +1,23 @@
+.header {
+    overflow: hidden;
+}
+.logo {
+    float: left;
+    display: block;
+    width: 25%;
+    height: 300px;
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.heading {
+    float: left;
+    clear: right;
+    color: #fff;
+    font-weight: 200;
+    line-height: 200px;
+    margin: 0;
+}
+.wrap {
+    height: 200px;
+}
